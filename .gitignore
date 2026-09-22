@@ -1,0 +1,11 @@
+.godot/
+builds/
+exports/
+*.apk
+*.aab
+*.keystore
+*.jks
+export_credentials.cfg
+.env
+.env.*
+art/lab/tmp/

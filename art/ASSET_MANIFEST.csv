@@ -1,0 +1,28 @@
+id,category,description,planned_source_size,display_target,format,pivot,states,source,license_or_provenance,status,gate
+reference_001,reference,User approved visual direction,original,comparison only,PNG,n/a,static,user supplied,User reports ChatGPT generation; reference only,direction approved; not shipping art,0
+apple_01,item,One apple,512x512,52-58 logical units,RGBA PNG,0.5 0.82,idle/select/move/merge/deliver,tbd,Record tool or author and terms before acceptance,planned,1
+apple_02,item,Sliced apple wedges fanned on a board,512x512,52-58 logical units,RGBA PNG,0.5 0.82,idle/select/move/merge/deliver,tbd,Record tool or author and terms before acceptance,planned,1
+apple_03,item,Apple filling in a squat mixing bowl,512x512,52-58 logical units,RGBA PNG,0.5 0.82,idle/select/move/merge/deliver,tbd,Record tool or author and terms before acceptance,planned,1
+apple_04,item,Golden lattice apple pie,512x512,52-58 logical units,RGBA PNG,0.5 0.82,idle/select/move/deliver,tbd,Record tool or author and terms before acceptance,planned,1
+biscuit_01,item,Flour bag,512x512,52-58 logical units,RGBA PNG,0.5 0.82,idle/select/move/merge/deliver,tbd,Record tool or author and terms before acceptance,planned,4
+biscuit_02,item,Dough ball,512x512,52-58 logical units,RGBA PNG,0.5 0.82,idle/select/move/merge/deliver,tbd,Record tool or author and terms before acceptance,planned,4
+biscuit_03,item,Cut biscuit shapes on a tray,512x512,52-58 logical units,RGBA PNG,0.5 0.82,idle/select/move/merge/deliver,tbd,Record tool or author and terms before acceptance,planned,4
+biscuit_04,item,Baked flower-shaped biscuits,512x512,52-58 logical units,RGBA PNG,0.5 0.82,idle/select/move/deliver,tbd,Record tool or author and terms before acceptance,planned,4
+board_frame,ui,Honey wood frame exactly 4x4 cells,vector or 1024x1024,328x328 logical units,SVG or nine-slice PNG,center,normal/local response,tbd,Record author and source,planned,1
+board_cell,ui,Cream recessed tile,256x256,71x71 logical units,SVG or PNG,center,normal/selected/valid/invalid/focus,tbd,Record author and source,planned,1
+item_shadow,fx,Soft contact shadow separate from body,256x128,per item footprint,RGBA PNG,center,rest/lift,tbd,Record author and source,planned,1
+merge_sparkle,fx,Small restrained sparkle,128x128,6-12 logical units,SVG or PNG,center,brief burst/toggle off,tbd,Record author and source,planned,1
+cat_buddy,character,Calico cat with broad cheeks and paws,1024x1024 layered,64-112 logical units,layered PNG parts,stable contact baseline,idle/blink/happy/encouraging,tbd,Reference-guided original production art,planned,4
+chick_buddy,character,Small round yellow chick,512x512 layered,40-64 logical units,layered PNG parts,stable contact baseline,idle/tilt/happy,tbd,Reference-guided original production art,planned,4
+request_panel,ui,Cream padded request panel,tbd,responsive,SVG or nine-slice PNG,center,normal/ready/complete,tbd,Record author and source,planned,4
+button_skin,ui,Reusable rounded primary and secondary controls,tbd,48 logical units minimum target height,SVG or nine-slice PNG,center,normal/pressed/disabled/focus,tbd,Record author and source,planned,4
+ui_symbols,ui,Settings undo restart deliver supply back and play symbols,128x128 each,20-28 logical units,SVG,center,normal/focus,tbd,Record author and source per symbol,planned,4
+stage_badge,ui,Optional quiet badge with live stage number,vector,fit 16-unit numeral,SVG skin plus native text,corner,normal/selected,tbd,No generated lettering,planned optional,1
+process_cues,fx,Slice Mix Bake cues including small oven symbol,128x128 symbols,brief inline label and small symbol,SVG plus native text,center,discovery/reduced motion,tbd,Record author and source; no generated lettering,planned,1
+background,environment,Quiet hills sky and single foliage group,1080x1920,responsive portrait,PNG,n/a,static,tbd,Record tool or author and terms before acceptance,planned,4
+picnic_vignette,environment,Small picnic area revealed across puzzle progress,1024x512,maximum 160x80 logical units,layered PNG,n/a,initial/intermediate/complete,tbd,Record author and source,planned,4
+logo,ui,Compact Merge Buddies title with authored lettering,tbd,title screen only,SVG or native type,n/a,static,tbd,Verify lettering rights and font license,planned,4
+ui_font,font,Rounded readable font with clear numerals,n/a,16-24 logical units,TTF or OTF,n/a,regular/bold,tbd,License file and source required,planned,1
+sfx_set,audio,Select move merge invalid deliver complete,n/a,quiet short cues,WAV or OGG,n/a,six clips,tbd,License file and source per clip required,planned,4
+music_loop,audio,One gentle loop,n/a,adjustable volume,OGG,n/a,loop with clean seam,tbd,License file and source required,planned,4
+ambience_loop,audio,Soft outdoor ambience,n/a,adjustable volume,OGG,n/a,loop with clean seam,tbd,License file and source required,planned,4
