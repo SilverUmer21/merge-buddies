@@ -1,0 +1,78 @@
+[
+  {
+    "file": "art\\masters\\apple-01-v1.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "substantial_bounds": [
+      292,
+      254,
+      962,
+      994
+    ],
+    "transparent_pixels": 1203526
+  },
+  {
+    "file": "art\\lab\\apple-02-v1.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "substantial_bounds": [
+      239,
+      295,
+      1041,
+      986
+    ],
+    "transparent_pixels": 1131570
+  },
+  {
+    "file": "art\\lab\\apple-03-v1.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "substantial_bounds": [
+      216,
+      288,
+      1040,
+      986
+    ],
+    "transparent_pixels": 1164492
+  },
+  {
+    "file": "art\\lab\\apple-04-v1.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "substantial_bounds": [
+      222,
+      273,
+      1039,
+      981
+    ],
+    "transparent_pixels": 1124038
+  }
+]

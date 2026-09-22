@@ -2,6 +2,8 @@
 
 Version 0.1 · 2026-09-22. Direction approved through the user's reference; production assets and the proposed picnic interpretation are not yet approved.
 
+Update: apple v1 and pie v1 have explicit user visual approval; use these preserved masters as the specific style anchors for subsequent assets. Technical Android acceptance is still pending. See `art/ASSET_REVIEW.md` from the repository root for the review history.
+
 ## Reference and boundaries
 
 Source: `art/references/approved-style-reference.png`, copied unchanged from the user-supplied image, originally named `Codex Image Sep 22, 2026, 10_25_42 PM.png`.

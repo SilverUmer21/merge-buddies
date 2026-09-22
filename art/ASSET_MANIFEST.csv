@@ -1,9 +1,9 @@
 id,category,description,planned_source_size,display_target,format,pivot,states,source,license_or_provenance,status,gate
 reference_001,reference,User approved visual direction,original,comparison only,PNG,n/a,static,user supplied,User reports ChatGPT generation; reference only,direction approved; not shipping art,0
-apple_01,item,One apple,512x512,52-58 logical units,RGBA PNG,0.5 0.82,idle/select/move/merge/deliver,tbd,Record tool or author and terms before acceptance,planned,1
-apple_02,item,Sliced apple wedges fanned on a board,512x512,52-58 logical units,RGBA PNG,0.5 0.82,idle/select/move/merge/deliver,tbd,Record tool or author and terms before acceptance,planned,1
-apple_03,item,Apple filling in a squat mixing bowl,512x512,52-58 logical units,RGBA PNG,0.5 0.82,idle/select/move/merge/deliver,tbd,Record tool or author and terms before acceptance,planned,1
-apple_04,item,Golden lattice apple pie,512x512,52-58 logical units,RGBA PNG,0.5 0.82,idle/select/move/deliver,tbd,Record tool or author and terms before acceptance,planned,1
+apple_01,item,One apple,1254x1254,52-58 logical units,RGBA PNG,0.5 0.82,idle/select/move/merge/deliver,built-in image generation,Original generated metadata retained; see ASSET_REVIEW.md,user visual approved; Android pending,1
+apple_02,item,Sliced apple wedges fanned on a board,1254x1254,52-58 logical units,RGBA PNG,0.5 0.82,idle/select/move/merge/deliver,built-in image generation,Original generated metadata retained; see ASSET_REVIEW.md,primary still review passed; user pending,1
+apple_03,item,Apple filling in a squat mixing bowl,1254x1254,52-58 logical units,RGBA PNG,0.5 0.82,idle/select/move/merge/deliver,built-in image generation,Original generated metadata retained; see ASSET_REVIEW.md,primary still review passed; user pending,1
+apple_04,item,Golden lattice apple pie,1254x1254,52-58 logical units,RGBA PNG,0.5 0.82,idle/select/move/deliver,built-in image generation,Original generated metadata retained; see ASSET_REVIEW.md,user visual approved; Android pending,1
 biscuit_01,item,Flour bag,512x512,52-58 logical units,RGBA PNG,0.5 0.82,idle/select/move/merge/deliver,tbd,Record tool or author and terms before acceptance,planned,4
 biscuit_02,item,Dough ball,512x512,52-58 logical units,RGBA PNG,0.5 0.82,idle/select/move/merge/deliver,tbd,Record tool or author and terms before acceptance,planned,4
 biscuit_03,item,Cut biscuit shapes on a tray,512x512,52-58 logical units,RGBA PNG,0.5 0.82,idle/select/move/merge/deliver,tbd,Record tool or author and terms before acceptance,planned,4

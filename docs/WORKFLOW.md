@@ -4,6 +4,8 @@
 
 Primary owns design, art direction, asset creation/iteration, and final visual acceptance. Luna High owns bounded coding, import work, integration, and reproducible checks after specifications are concrete. The user retains final creative approval.
 
+Confirmed sequence: complete asset graphics and iterations first; then Godot implementation; then primary game review; then user game review. No gameplay work during the asset phase. A private browser art lab may be used to check scale and motion.
+
 This minimizes art-direction handoffs, but does not guarantee a specific token saving. Actual cost depends on failed iterations, context size, task ambiguity, and available model pricing. No unsupported price or capability ranking is assumed.
 
 | Work | Primary | Luna High |
